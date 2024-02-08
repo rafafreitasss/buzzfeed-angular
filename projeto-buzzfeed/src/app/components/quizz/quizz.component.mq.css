@@ -1,0 +1,11 @@
+
+@media screen and (max-width: 650px) {
+    .quizz_logo > h3 {
+        font-size: 1.3em;
+    }
+
+    .btn-option {
+        width: 40%;
+
+    }
+}
